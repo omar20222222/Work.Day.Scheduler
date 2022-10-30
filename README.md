@@ -2,9 +2,8 @@
 
 ## Description
 
-a calendar application that allows a user to save events for each hour of the day.
+A calendar application that allows a user to save events for each hour of the day.
 
-URL : http://127.0.0.1:5500/index.html
 
 ## User Story
 AS AN employee with a busy schedule
@@ -28,12 +27,15 @@ THEN the saved events persist
 ## Mock-Up
 The following animation demonstrates the application functionality:
 
+![videodemo](Assets/images/05-third-party-apis-homework-demo.gif)
+
+![workdayscheduler](Assets/images/2022-10-29%20(2).png)
+
+## Links
+
+Github URL- https://github.com/omar20222222/Work.Day.Scheduler
+
+Deployed URL - https://omar20222222.github.io/Work.Day.Scheduler/
 
 
 
-
-![](Assets/images/05-third-party-apis-homework-demo.gif)
-
-
-
-![](Assets/images/2022-10-29%20(2).png)
