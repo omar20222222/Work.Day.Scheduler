@@ -27,9 +27,8 @@ THEN the saved events persist
 ## Mock-Up
 The following animation demonstrates the application functionality:
 
-![videodemo](Assets/images/05-third-party-apis-homework-demo.gif)
 
-![workdayscheduler](Assets/images/2022-10-29%20(2).png)
+![workdayscheduler](Assets/images/1-12.png)
 
 ## Links
 
